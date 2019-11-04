@@ -69,6 +69,9 @@ ol {
     margin: 0;
     padding: 0;
 }
+h4{
+    color: white;
+}
 
 a:focus,
 a:hover {
@@ -84,6 +87,7 @@ a:hover {
 
 .text-wh {
     color: #fff;
+
 }
 
 .text-li {
